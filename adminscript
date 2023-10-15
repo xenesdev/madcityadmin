@@ -1,6 +1,6 @@
 -- v2
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JustD1v/Scripts/main/DevHub.lua", true))()
+
 if game.PlaceId ~= 13864667823 then
 	if game.PlaceId == 14775231477 or game.PlaceId == 1224212277 then
  
